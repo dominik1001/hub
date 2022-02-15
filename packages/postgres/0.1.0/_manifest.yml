@@ -1,0 +1,6 @@
+name: "postgres"
+title: "postgres"
+description: A lot of useful Postgres SQL commands.
+version: 0.1.0
+author: Dominik Grusemann
+tags: ["database", "postgres"]
